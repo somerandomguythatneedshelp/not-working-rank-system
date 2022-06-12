@@ -1,0 +1,8 @@
+name: Main
+version: '${project.version}'
+main: stuff.main.Main
+api-version: 1.17
+commands:
+  rank:
+
+

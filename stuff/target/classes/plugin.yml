@@ -1,0 +1,8 @@
+name: Main
+version: '1.0-SNAPSHOT'
+main: stuff.main.Main
+api-version: 1.17
+commands:
+  rank:
+
+
